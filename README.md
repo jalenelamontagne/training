@@ -5,3 +5,6 @@ My training respository
 1. apple
 2. pear
 3. orange
+
+
+git is a great tool
